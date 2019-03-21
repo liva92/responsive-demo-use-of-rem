@@ -5,7 +5,7 @@
  __final effect on mobile devices:__
 
 <p align="center">
-  <img src="https://preview.ibb.co/coxj7c/IMG_5327.jpg" width="300" height="641" alt="homepage screenshot" border="0">
+  <img src="https://github.com/liva92/responsive-demo-use-of-rem/blob/master/images/mobileWeb.png"  alt="homepage screenshot" border="0">
 </p>
 
 __final effect on PC:__
