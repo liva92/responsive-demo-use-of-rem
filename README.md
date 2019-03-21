@@ -16,10 +16,6 @@ __final effect on PC:__
 
 __See final Web Page at__ [here](https://jinwangq.github.io/Responsive-practice-a-news-homepage/)
 
-__Try it on a mobile phone ; )__
-
-<img src="https://image.ibb.co/ivaRLx/Screen_Shot_2018_02_23_at_2_59_35_PM.png" width="200" height="190" alt="Screen_Shot_2018_02_23_at_2_59_35_PM" border="0">
-
 ---
 ### Key point
 
