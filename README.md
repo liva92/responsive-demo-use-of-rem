@@ -14,7 +14,8 @@ __final effect on PC:__
   <img src="https://github.com/liva92/responsive-demo-use-of-rem/blob/master/images/pcWeb.png"   alt="homepage screenshot" border="0">
 </p>
 
-__See final Web Page at__ [here](https://jinwangq.github.io/Responsive-practice-a-news-homepage/)
+__See final Web Page at__ [here](https://liva.github.io/responsive-demo-use-of-rem/index)
+<p>please use chrome or Firefox</P>
 
 ---
 ### Key point
